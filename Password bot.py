@@ -4,7 +4,6 @@ print  string.punctuation + string.ascii_letters + string.digits
 na = raw_input("Please enter a word that is 8 characters long: ")
 number = raw_input("Please enter a numerical value here: ")
 chars =  string.punctuation
-password = random()
 def string_repetition():
   x = 1 
   while x < 11:
